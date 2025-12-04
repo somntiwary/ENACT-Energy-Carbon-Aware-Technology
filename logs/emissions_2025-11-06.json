@@ -1,0 +1,4584 @@
+[
+  {
+    "timestamp": "2025-11-06T12:25:29.668040",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:55:29.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:31.885511",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.7,
+      "memory_percent": 82.8,
+      "memory_used_gb": 12.98,
+      "network_bytes_sent": 156399631,
+      "network_bytes_recv": 5320248772,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:39.357480",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:55:39.244Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:44.275433",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.0,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 156413532,
+      "network_bytes_recv": 5320255810,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:49.670950",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:55:49.236Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:56.675299",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.6,
+      "memory_percent": 82.5,
+      "memory_used_gb": 12.93,
+      "network_bytes_sent": 156421185,
+      "network_bytes_recv": 5320267109,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:25:59.345658",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:55:59.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:09.060924",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.4,
+      "memory_percent": 82.3,
+      "memory_used_gb": 12.9,
+      "network_bytes_sent": 156424909,
+      "network_bytes_recv": 5320269885,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:09.658541",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.3e-05,
+    "co2_grams": 0.006,
+    "power_watts": 4.58,
+    "cpu_load_factor": 0.57,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:09.223Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:19.337679",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:19.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:21.472848",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.2,
+      "memory_percent": 82.3,
+      "memory_used_gb": 12.9,
+      "network_bytes_sent": 156438111,
+      "network_bytes_recv": 5320291824,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:29.661604",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:29.233Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:33.891338",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.6,
+      "memory_percent": 82.4,
+      "memory_used_gb": 12.91,
+      "network_bytes_sent": 156463340,
+      "network_bytes_recv": 5320323974,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:39.338696",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:39.228Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:46.296818",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.9,
+      "memory_percent": 82.9,
+      "memory_used_gb": 12.99,
+      "network_bytes_sent": 156522304,
+      "network_bytes_recv": 5320419090,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:49.648403",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:49.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:58.681805",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.6,
+      "memory_percent": 82.9,
+      "memory_used_gb": 12.99,
+      "network_bytes_sent": 156529986,
+      "network_bytes_recv": 5320422468,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:26:59.350200",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:56:59.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:09.657805",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:09.228Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:11.079760",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.8,
+      "memory_percent": 82.5,
+      "memory_used_gb": 12.93,
+      "network_bytes_sent": 156540016,
+      "network_bytes_recv": 5320431721,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:19.349729",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:19.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:23.533934",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 13.5,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 156589127,
+      "network_bytes_recv": 5320522734,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:29.666732",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:29.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:35.932809",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 9.5,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 156648468,
+      "network_bytes_recv": 5321393290,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:39.345214",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:39.233Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:48.370961",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.3,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 156660069,
+      "network_bytes_recv": 5321406897,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:49.676490",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:49.248Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:27:59.332461",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:57:59.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:00.787635",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.7,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.09,
+      "network_bytes_sent": 156667737,
+      "network_bytes_recv": 5321411338,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:09.656188",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 4.99,
+    "cpu_load_factor": 0.62,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:09.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:13.197831",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.3,
+      "memory_percent": 83.4,
+      "memory_used_gb": 13.07,
+      "network_bytes_sent": 156674037,
+      "network_bytes_recv": 5321418252,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:19.360548",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:19.233Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:25.668096",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 37.7,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 156681243,
+      "network_bytes_recv": 5321428747,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:29.673394",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:29.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:39.005009",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.9,
+      "memory_percent": 83.7,
+      "memory_used_gb": 13.12,
+      "network_bytes_sent": 156688738,
+      "network_bytes_recv": 5321432454,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:39.397141",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:39.267Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:49.717521",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:49.270Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:52.195158",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 11.3,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.02,
+      "network_bytes_sent": 156693155,
+      "network_bytes_recv": 5321435659,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:28:59.354603",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:58:59.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:05.617767",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.7,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.08,
+      "network_bytes_sent": 156711174,
+      "network_bytes_recv": 5321515965,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:09.670297",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:09.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:19.362303",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:19.233Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:19.638629",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 10.9,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.09,
+      "network_bytes_sent": 156722701,
+      "network_bytes_recv": 5321527792,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:29.722908",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:29.293Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:33.413004",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.6,
+      "memory_percent": 83.4,
+      "memory_used_gb": 13.08,
+      "network_bytes_sent": 156726927,
+      "network_bytes_recv": 5321530034,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:39.380412",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:39.271Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:46.974656",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 16.8,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 156765919,
+      "network_bytes_recv": 5321549051,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:49.716095",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:49.244Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:29:59.441448",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T06:59:59.238Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:01.187440",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 9.8,
+      "memory_percent": 83.7,
+      "memory_used_gb": 13.11,
+      "network_bytes_sent": 156776750,
+      "network_bytes_recv": 5321564258,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:09.671083",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 2e-05,
+    "co2_grams": 0.0094,
+    "power_watts": 7.09,
+    "cpu_load_factor": 0.89,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:09.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:14.856493",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.6,
+      "memory_percent": 83.7,
+      "memory_used_gb": 13.12,
+      "network_bytes_sent": 156793440,
+      "network_bytes_recv": 5321584417,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:19.339228",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:19.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:28.171958",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.7,
+      "memory_percent": 82.3,
+      "memory_used_gb": 12.9,
+      "network_bytes_sent": 156804761,
+      "network_bytes_recv": 5321595843,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:29.655254",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:29.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:39.360269",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:39.242Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:41.999415",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 9.4,
+      "memory_percent": 82.2,
+      "memory_used_gb": 12.89,
+      "network_bytes_sent": 156812874,
+      "network_bytes_recv": 5321600778,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:49.403468",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:49.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:55.276658",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 2 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.3,
+      "memory_percent": 83.0,
+      "memory_used_gb": 13.01,
+      "network_bytes_sent": 156816153,
+      "network_bytes_recv": 5321603002,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:30:59.695960",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:00:59.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:08.175041",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 14.2,
+      "memory_percent": 82.9,
+      "memory_used_gb": 13.0,
+      "network_bytes_sent": 156819918,
+      "network_bytes_recv": 5321604709,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:09.343497",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:09.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:19.660751",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:19.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:20.759257",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 18.3,
+      "memory_percent": 82.6,
+      "memory_used_gb": 12.95,
+      "network_bytes_sent": 156838890,
+      "network_bytes_recv": 5321631007,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:29.679442",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:29.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:33.968778",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 9.5,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 156848463,
+      "network_bytes_recv": 5321641302,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:39.450773",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:39.268Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:47.178027",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.6,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 156860869,
+      "network_bytes_recv": 5321650964,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:49.671837",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:49.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:31:59.349723",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:01:59.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:00.724684",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.0,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 156866949,
+      "network_bytes_recv": 5321653416,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:09.692974",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.5e-05,
+    "co2_grams": 0.0072,
+    "power_watts": 5.46,
+    "cpu_load_factor": 0.68,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:09.242Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:13.786207",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 12.8,
+      "memory_percent": 82.8,
+      "memory_used_gb": 12.97,
+      "network_bytes_sent": 156888254,
+      "network_bytes_recv": 5321681355,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:19.373983",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:19.236Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:26.667894",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.3,
+      "memory_percent": 82.8,
+      "memory_used_gb": 12.97,
+      "network_bytes_sent": 156922831,
+      "network_bytes_recv": 5321744949,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:29.728127",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:29.308Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:39.095333",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.6,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 156926302,
+      "network_bytes_recv": 5321746765,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:39.349474",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:39.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:49.647263",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:49.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:51.467278",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.8,
+      "memory_percent": 84.3,
+      "memory_used_gb": 13.22,
+      "network_bytes_sent": 156936182,
+      "network_bytes_recv": 5321754777,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:32:59.336626",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:02:59.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:03.891804",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.7,
+      "memory_percent": 85.4,
+      "memory_used_gb": 13.39,
+      "network_bytes_sent": 156948535,
+      "network_bytes_recv": 5321763898,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:09.673682",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:09.238Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:16.316816",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.3,
+      "memory_percent": 86.3,
+      "memory_used_gb": 13.52,
+      "network_bytes_sent": 156962564,
+      "network_bytes_recv": 5321779241,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:19.348114",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:19.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:28.685620",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.6,
+      "memory_percent": 87.7,
+      "memory_used_gb": 13.75,
+      "network_bytes_sent": 156974820,
+      "network_bytes_recv": 5321798217,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:29.661892",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:29.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:39.340862",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:39.232Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:41.070173",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.8e-05,
+    "co2_grams": 0.0086,
+    "power_watts": 6.5,
+    "cpu_load_factor": 0.81,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.5,
+      "memory_percent": 88.0,
+      "memory_used_gb": 13.79,
+      "network_bytes_sent": 156984288,
+      "network_bytes_recv": 5321801408,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:49.657651",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:49.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:53.554075",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.3,
+      "memory_percent": 87.6,
+      "memory_used_gb": 13.74,
+      "network_bytes_sent": 156995312,
+      "network_bytes_recv": 5321810616,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:33:59.347465",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:03:59.223Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:05.967667",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.9,
+      "memory_percent": 87.6,
+      "memory_used_gb": 13.74,
+      "network_bytes_sent": 157007142,
+      "network_bytes_recv": 5321879225,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:09.674283",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:09.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:18.368894",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.5,
+      "memory_percent": 87.7,
+      "memory_used_gb": 13.75,
+      "network_bytes_sent": 157014344,
+      "network_bytes_recv": 5321889236,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:19.341560",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:19.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:29.660283",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:29.236Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:30.770863",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.9,
+      "memory_percent": 87.6,
+      "memory_used_gb": 13.74,
+      "network_bytes_sent": 157017701,
+      "network_bytes_recv": 5321890954,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:39.344984",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:39.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:43.122265",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.7,
+      "memory_percent": 87.6,
+      "memory_used_gb": 13.74,
+      "network_bytes_sent": 157021855,
+      "network_bytes_recv": 5321893409,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:49.663996",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:49.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:55.526421",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.7,
+      "memory_percent": 87.7,
+      "memory_used_gb": 13.75,
+      "network_bytes_sent": 157030915,
+      "network_bytes_recv": 5321897953,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:34:59.350050",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:04:59.234Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:07.968824",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.5,
+      "memory_percent": 87.9,
+      "memory_used_gb": 13.77,
+      "network_bytes_sent": 157037672,
+      "network_bytes_recv": 5321900956,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:09.656788",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:09.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:19.336106",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:19.223Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:20.400925",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.3,
+      "memory_percent": 87.8,
+      "memory_used_gb": 13.76,
+      "network_bytes_sent": 157059913,
+      "network_bytes_recv": 5321934585,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:29.661767",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:29.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:32.776219",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.4,
+      "memory_percent": 86.2,
+      "memory_used_gb": 13.5,
+      "network_bytes_sent": 157065090,
+      "network_bytes_recv": 5321937761,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:39.357778",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:39.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:45.176056",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.5,
+      "memory_percent": 86.1,
+      "memory_used_gb": 13.5,
+      "network_bytes_sent": 157076277,
+      "network_bytes_recv": 5321940811,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:49.666480",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:49.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:57.602867",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.4,
+      "memory_percent": 86.1,
+      "memory_used_gb": 13.5,
+      "network_bytes_sent": 157083199,
+      "network_bytes_recv": 5321943870,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:35:59.350354",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:05:59.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:09.670146",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:09.234Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:09.996398",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.6,
+      "memory_percent": 86.2,
+      "memory_used_gb": 13.5,
+      "network_bytes_sent": 157086732,
+      "network_bytes_recv": 5321945843,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:19.346405",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:19.228Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:22.373285",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.5,
+      "memory_percent": 86.2,
+      "memory_used_gb": 13.51,
+      "network_bytes_sent": 157097739,
+      "network_bytes_recv": 5321956872,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:29.659838",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:29.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:34.782414",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.0,
+      "memory_percent": 85.9,
+      "memory_used_gb": 13.46,
+      "network_bytes_sent": 157101151,
+      "network_bytes_recv": 5321958656,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:39.344987",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:39.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:47.166779",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 10.4,
+      "memory_percent": 86.4,
+      "memory_used_gb": 13.54,
+      "network_bytes_sent": 157104909,
+      "network_bytes_recv": 5321960525,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:49.655890",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:49.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:59.339701",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:06:59.228Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:36:59.615714",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.7,
+      "memory_percent": 83.0,
+      "memory_used_gb": 13.01,
+      "network_bytes_sent": 157108641,
+      "network_bytes_recv": 5321963177,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:09.660525",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:09.229Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:12.039348",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 12.9,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157118671,
+      "network_bytes_recv": 5321967060,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:19.334251",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:19.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:24.489141",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.2,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157174734,
+      "network_bytes_recv": 5322078586,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:29.659001",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:29.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:36.887458",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.0,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157178853,
+      "network_bytes_recv": 5322080603,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:39.334261",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:39.229Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:49.324176",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.9,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157189819,
+      "network_bytes_recv": 5322083434,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:49.677839",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:49.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:37:59.347185",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:07:59.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:01.740807",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.5,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157193876,
+      "network_bytes_recv": 5322085562,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:09.657347",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:09.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:14.161523",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.8,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157207752,
+      "network_bytes_recv": 5322097753,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:19.335871",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:19.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:26.576284",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 12.0,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157215815,
+      "network_bytes_recv": 5322107606,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:29.654073",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:29.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:38.953928",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.4,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.02,
+      "network_bytes_sent": 157221598,
+      "network_bytes_recv": 5322110520,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:39.351615",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:39.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:49.649258",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:49.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:51.344295",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.1,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.02,
+      "network_bytes_sent": 157227657,
+      "network_bytes_recv": 5322113140,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:38:59.327739",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:08:59.223Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:03.755345",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.4,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157236336,
+      "network_bytes_recv": 5322187910,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:09.644541",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:09.229Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:16.145004",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.6,
+      "memory_percent": 83.3,
+      "memory_used_gb": 13.06,
+      "network_bytes_sent": 157247546,
+      "network_bytes_recv": 5322197703,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:19.341808",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:19.232Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:28.564778",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.8,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157253753,
+      "network_bytes_recv": 5322206927,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:29.664280",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:29.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:39.345914",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:39.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:40.974146",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.7,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157260833,
+      "network_bytes_recv": 5322209925,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:49.676368",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:49.236Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:53.386679",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.2,
+      "memory_percent": 83.3,
+      "memory_used_gb": 13.06,
+      "network_bytes_sent": 157269182,
+      "network_bytes_recv": 5322211570,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:39:59.354511",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:09:59.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:05.790115",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.8,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157273476,
+      "network_bytes_recv": 5322214098,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:09.657142",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:09.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:18.191114",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 10.9,
+      "memory_percent": 83.3,
+      "memory_used_gb": 13.05,
+      "network_bytes_sent": 157299252,
+      "network_bytes_recv": 5322251263,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:19.341352",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:19.228Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:29.667531",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:29.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:30.607062",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.7,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 157302537,
+      "network_bytes_recv": 5322253304,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:39.351431",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:39.232Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:42.962073",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.6,
+      "memory_percent": 82.8,
+      "memory_used_gb": 12.98,
+      "network_bytes_sent": 157344325,
+      "network_bytes_recv": 5322323790,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:49.671305",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:49.233Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:55.337364",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.9,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 157350301,
+      "network_bytes_recv": 5322326280,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:40:59.339271",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:10:59.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:07.727734",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 11.5,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 157354307,
+      "network_bytes_recv": 5322328621,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:09.341135",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:09.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:19.667407",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:19.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:20.160213",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 0.7,
+      "memory_percent": 82.7,
+      "memory_used_gb": 12.96,
+      "network_bytes_sent": 157361585,
+      "network_bytes_recv": 5322338020,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:29.352778",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:29.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:32.549408",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.9,
+      "memory_percent": 82.8,
+      "memory_used_gb": 12.98,
+      "network_bytes_sent": 157368542,
+      "network_bytes_recv": 5322341101,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:39.651218",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:39.223Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:45.011598",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.6,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157400333,
+      "network_bytes_recv": 5322373255,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:49.343229",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:49.229Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:57.422235",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.8,
+      "memory_percent": 83.2,
+      "memory_used_gb": 13.04,
+      "network_bytes_sent": 157408151,
+      "network_bytes_recv": 5322376246,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:41:59.654410",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:11:59.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:09.350566",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:09.234Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:09.820665",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.1,
+      "memory_percent": 82.9,
+      "memory_used_gb": 12.99,
+      "network_bytes_sent": 157411506,
+      "network_bytes_recv": 5322377932,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:19.651001",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:19.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:22.242757",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.6,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.02,
+      "network_bytes_sent": 157451712,
+      "network_bytes_recv": 5322444126,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:29.334239",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:29.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:34.606218",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.9,
+      "memory_percent": 83.3,
+      "memory_used_gb": 13.05,
+      "network_bytes_sent": 157469400,
+      "network_bytes_recv": 5322475126,
+      "network_mbps": 0,
+      "battery_percent": 100,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:39.652917",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:39.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:47.020921",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.9,
+      "memory_percent": 83.0,
+      "memory_used_gb": 13.01,
+      "network_bytes_sent": 157481773,
+      "network_bytes_recv": 5322482827,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:49.352304",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:49.240Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:59.431220",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.4,
+      "memory_percent": 83.1,
+      "memory_used_gb": 13.03,
+      "network_bytes_sent": 157486426,
+      "network_bytes_recv": 5322486137,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:42:59.672240",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:12:59.240Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:09.355322",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:09.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:11.865038",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 9.9,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.11,
+      "network_bytes_sent": 157541488,
+      "network_bytes_recv": 5330586441,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:19.651288",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:19.229Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:24.292726",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 10.1,
+      "memory_percent": 84.0,
+      "memory_used_gb": 13.16,
+      "network_bytes_sent": 157890230,
+      "network_bytes_recv": 5427462344,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:29.343692",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:29.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:36.754311",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.11,
+      "network_bytes_sent": 158056005,
+      "network_bytes_recv": 5471836217,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:39.654854",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:39.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:49.175420",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 158061205,
+      "network_bytes_recv": 5471839652,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:49.355175",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:49.231Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:43:59.645285",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:13:59.224Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:01.582913",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.8,
+      "memory_percent": 83.6,
+      "memory_used_gb": 13.11,
+      "network_bytes_sent": 158080681,
+      "network_bytes_recv": 5471915551,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:09.347560",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:09.237Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:13.998211",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.3,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 158087713,
+      "network_bytes_recv": 5471919124,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:19.659461",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:19.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:26.411346",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.5,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.08,
+      "network_bytes_sent": 158102530,
+      "network_bytes_recv": 5471947089,
+      "network_mbps": 0,
+      "battery_percent": 94,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:29.340475",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:29.230Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:38.805509",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.3,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.09,
+      "network_bytes_sent": 158116924,
+      "network_bytes_recv": 5471954277,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:39.660667",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:39.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:49.351135",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:49.239Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:51.188834",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.3,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.1,
+      "network_bytes_sent": 158123726,
+      "network_bytes_recv": 5471959113,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:44:59.664002",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:14:59.226Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:03.594927",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.2,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.09,
+      "network_bytes_sent": 158130601,
+      "network_bytes_recv": 5471962327,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:09.345112",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:15:09.225Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:16.001849",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.3,
+      "memory_percent": 83.5,
+      "memory_used_gb": 13.09,
+      "network_bytes_sent": 158139535,
+      "network_bytes_recv": 5471972872,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:19.668664",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:15:19.235Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:28.410958",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.9,
+      "memory_percent": 83.0,
+      "memory_used_gb": 13.01,
+      "network_bytes_sent": 158157825,
+      "network_bytes_recv": 5471998680,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:30.317570",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0054,
+    "power_watts": 4.1,
+    "cpu_load_factor": 0.51,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:15:30.181Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:45:39.655757",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "url": "https://chatgpt.com/c/690a2b05-3cb0-8322-9399-0556f10a26af",
+      "title": "Assignment answers CIE-407",
+      "hostname": "chatgpt.com",
+      "source": "browser_extension",
+      "timestamp": "2025-11-06T07:15:39.227Z"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:50:46.483799",
+    "activity_type": "idle",
+    "duration_seconds": 10.0,
+    "energy_kwh": 4e-06,
+    "co2_grams": 0.002,
+    "power_watts": 1.5,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Unknown",
+      "process_name": "Unknown",
+      "cpu_percent": 10.7,
+      "memory_percent": 83.9,
+      "memory_used_gb": 13.16,
+      "network_bytes_sent": 158173968,
+      "network_bytes_recv": 5472023615,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:50:58.744206",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.4,
+      "memory_percent": 86.2,
+      "memory_used_gb": 13.51,
+      "network_bytes_sent": 158415341,
+      "network_bytes_recv": 5472594341,
+      "network_mbps": 0,
+      "battery_percent": 93,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:51:11.162038",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.1,
+      "memory_percent": 85.7,
+      "memory_used_gb": 13.43,
+      "network_bytes_sent": 158472117,
+      "network_bytes_recv": 5472600521,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:51:23.574330",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 6.4,
+      "memory_percent": 85.5,
+      "memory_used_gb": 13.4,
+      "network_bytes_sent": 158478648,
+      "network_bytes_recv": 5472609268,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:51:36.008405",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.3,
+      "memory_percent": 85.4,
+      "memory_used_gb": 13.39,
+      "network_bytes_sent": 158484906,
+      "network_bytes_recv": 5472611955,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:51:48.414092",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.7,
+      "memory_percent": 85.5,
+      "memory_used_gb": 13.4,
+      "network_bytes_sent": 158487888,
+      "network_bytes_recv": 5472613788,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:52:00.822382",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.6,
+      "memory_percent": 85.2,
+      "memory_used_gb": 13.36,
+      "network_bytes_sent": 158498627,
+      "network_bytes_recv": 5472625431,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:52:13.249548",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.4,
+      "memory_percent": 85.2,
+      "memory_used_gb": 13.36,
+      "network_bytes_sent": 158508561,
+      "network_bytes_recv": 5472631712,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:52:25.655397",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.1,
+      "memory_percent": 85.2,
+      "memory_used_gb": 13.35,
+      "network_bytes_sent": 158548685,
+      "network_bytes_recv": 5472702730,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:52:38.053109",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 3.6,
+      "memory_percent": 85.2,
+      "memory_used_gb": 13.35,
+      "network_bytes_sent": 158554526,
+      "network_bytes_recv": 5472705275,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:52:50.514599",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 41.0,
+      "memory_percent": 85.3,
+      "memory_used_gb": 13.37,
+      "network_bytes_sent": 158562757,
+      "network_bytes_recv": 5472713876,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:53:02.926691",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 1.6,
+      "memory_percent": 85.2,
+      "memory_used_gb": 13.36,
+      "network_bytes_sent": 158566747,
+      "network_bytes_recv": 5472715536,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:53:15.356699",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 5.0,
+      "memory_percent": 85.1,
+      "memory_used_gb": 13.34,
+      "network_bytes_sent": 158573357,
+      "network_bytes_recv": 5472720591,
+      "network_mbps": 0,
+      "battery_percent": 92,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:53:27.780981",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 2.9,
+      "memory_percent": 85.1,
+      "memory_used_gb": 13.34,
+      "network_bytes_sent": 158579455,
+      "network_bytes_recv": 5472729227,
+      "network_mbps": 0,
+      "battery_percent": 91,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:53:40.192035",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 7.3,
+      "memory_percent": 85.1,
+      "memory_used_gb": 13.34,
+      "network_bytes_sent": 158582378,
+      "network_bytes_recv": 5472730723,
+      "network_mbps": 0,
+      "battery_percent": 91,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:53:52.641254",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Assignment answers CIE-407 and 1 more page - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.2,
+      "memory_percent": 85.1,
+      "memory_used_gb": 13.35,
+      "network_bytes_sent": 158586115,
+      "network_bytes_recv": 5472732952,
+      "network_mbps": 0,
+      "battery_percent": 91,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:54:05.050748",
+    "activity_type": "idle",
+    "duration_seconds": 10.0,
+    "energy_kwh": 4e-06,
+    "co2_grams": 0.002,
+    "power_watts": 1.5,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Unknown",
+      "process_name": "Unknown",
+      "cpu_percent": 0.8,
+      "memory_percent": 85.4,
+      "memory_used_gb": 13.38,
+      "network_bytes_sent": 158601419,
+      "network_bytes_recv": 5472751552,
+      "network_mbps": 0,
+      "battery_percent": 91,
+      "battery_plugged": false
+    }
+  },
+  {
+    "timestamp": "2025-11-06T12:54:17.496285",
+    "activity_type": "idle",
+    "duration_seconds": 10.0,
+    "energy_kwh": 4e-06,
+    "co2_grams": 0.002,
+    "power_watts": 1.5,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "Unknown",
+      "process_name": "Unknown",
+      "cpu_percent": 5.0,
+      "memory_percent": 85.1,
+      "memory_used_gb": 13.34,
+      "network_bytes_sent": 158624684,
+      "network_bytes_recv": 5472864001,
+      "network_mbps": 0,
+      "battery_percent": 91,
+      "battery_plugged": false
+    }
+  }
+]

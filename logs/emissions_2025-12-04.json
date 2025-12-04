@@ -1,0 +1,156 @@
+[
+  {
+    "timestamp": "2025-12-04T21:24:41.232153",
+    "activity_type": "coding",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 5.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "main.py - ENACT FINAL - Visual Studio Code",
+      "process_name": "code.exe",
+      "cpu_percent": 11.9,
+      "memory_percent": 70.4,
+      "memory_used_gb": 11.04,
+      "network_bytes_sent": 313504320,
+      "network_bytes_recv": 1031769243,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:24:53.533075",
+    "activity_type": "coding",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 5.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "main.py - ENACT FINAL - Visual Studio Code",
+      "process_name": "code.exe",
+      "cpu_percent": 18.9,
+      "memory_percent": 69.6,
+      "memory_used_gb": 10.92,
+      "network_bytes_sent": 314118045,
+      "network_bytes_recv": 1068793718,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:25:05.819095",
+    "activity_type": "coding",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 5.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "main.py - ENACT FINAL - Visual Studio Code",
+      "process_name": "code.exe",
+      "cpu_percent": 17.1,
+      "memory_percent": 71.5,
+      "memory_used_gb": 11.21,
+      "network_bytes_sent": 314789492,
+      "network_bytes_recv": 1079837479,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:25:18.154396",
+    "activity_type": "coding",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 5.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "main.py - ENACT FINAL - Visual Studio Code",
+      "process_name": "code.exe",
+      "cpu_percent": 11.7,
+      "memory_percent": 71.1,
+      "memory_used_gb": 11.15,
+      "network_bytes_sent": 315261688,
+      "network_bytes_recv": 1079872949,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:25:30.506245",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "ENACT - Energy & Carbon-Aware Technology and 3 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 4.9,
+      "memory_percent": 72.1,
+      "memory_used_gb": 11.3,
+      "network_bytes_sent": 316047297,
+      "network_bytes_recv": 1080280109,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:25:42.851874",
+    "activity_type": "browsing",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.1e-05,
+    "co2_grams": 0.0053,
+    "power_watts": 4.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "ENACT - Energy & Carbon-Aware Technology and 3 more pages - Personal - Microsoft\u200b Edge",
+      "process_name": "msedge.exe",
+      "cpu_percent": 8.9,
+      "memory_percent": 69.8,
+      "memory_used_gb": 10.95,
+      "network_bytes_sent": 316773944,
+      "network_bytes_recv": 1080320544,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  },
+  {
+    "timestamp": "2025-12-04T21:25:55.208115",
+    "activity_type": "coding",
+    "duration_seconds": 10.0,
+    "energy_kwh": 1.4e-05,
+    "co2_grams": 0.0066,
+    "power_watts": 5.0,
+    "cpu_load_factor": 0.5,
+    "method": "standard_benchmark",
+    "metadata": {
+      "window_title": "main.py - ENACT FINAL - Visual Studio Code",
+      "process_name": "code.exe",
+      "cpu_percent": 1.6,
+      "memory_percent": 69.9,
+      "memory_used_gb": 10.96,
+      "network_bytes_sent": 317586175,
+      "network_bytes_recv": 1080381695,
+      "network_mbps": 0,
+      "battery_percent": 95,
+      "battery_plugged": true
+    }
+  }
+]
